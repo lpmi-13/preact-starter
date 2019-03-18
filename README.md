@@ -5,11 +5,11 @@ However, you can modify this boilerplate as you want _(e.g. to use it with Vue )
 
 ## Javascript :
 
-All the **javascript** files are transpiled with babel and use sourcemaps (in developpment) for a better and easier debugging _(what you see in the devtools is the original file and not the transpiled one)_
+All the **javascript** files are transpiled with babel and use sourcemaps (in development) for a better and easier debugging _(what you see in the devtools is the original file and not the transpiled one)_
 
 In case you want more informations about **devtools** : https://webpack.js.org/configuration/devtool/
 
-Feel free to use your owns in the _config.js_ file.
+Feel free to use your own in the _config.js_ file.
 
 ## Styles :
 
@@ -45,8 +45,8 @@ module.exports = {
 
 ### Eslint and Editorconfig :
 
-Eslint lints your code, to help you having a consistant code.    
-Editorconfig keeps a consistant configuration between your text editor.
+Eslint lints your code, to help you have a consistent code style.    
+Editorconfig keeps a consistent configuration between your text editor.
 
 ### Usage :
 
